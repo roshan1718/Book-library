@@ -1,0 +1,12 @@
+.footer {
+  background: rgb(68, 82, 68);
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(229, 233, 221);
+  flex-direction: column;
+  margin-bottom: 0vh;
+  margin-top: 20vh;
+  height: 10vh;
+}

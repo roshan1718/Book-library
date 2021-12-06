@@ -1,0 +1,23 @@
+.header {
+    background: rgb(187, 96, 44);
+    height : 72px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    color: rgb(10, 10, 10);
+    flex-direction: column;
+    padding-left: 5%;
+  }
+
+  .color{
+    color: azure;
+  }
+
+  .logo{
+    padding-top: 10px;
+  }
+  .spac{
+    background-color: white;
+    margin-inline-start: 600px;
+    border-radius: 0%;
+  }

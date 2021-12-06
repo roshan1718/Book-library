@@ -1,0 +1,43 @@
+.card-item {
+  background: rgb(245, 243, 243);
+  cursor: pointer;
+  transition: all 0.3s;
+  height: 450px;
+  width: 269px;
+  margin: 10px;
+}
+
+.card-item:hover {
+  transform: scale(1.1);
+  transition: all 0.3s;
+}
+
+img {
+  width: 70%;
+  height: 200px;
+  margin-left: 15%;
+  margin-top: 15%;
+}
+
+.card-bottom {
+  padding: 30px;
+}
+.card-info {
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+justify-content: flex-start;
+}
+
+.mbtn{
+  width: 90px;
+  height: 30px;
+  margin-left: 0%;
+  border-radius: 0%;
+}
+.link{
+  /* text-decoration: none; */
+  color: rgb(10, 228, 21);
+  padding-left: 10%;
+
+}
